@@ -2,7 +2,7 @@
 
 # Stock market
 
-> "Stock Market Metrics" is a website wher you can find information abput a cpmpany financial statement in the previous years.
+>  This ia a website that provides users financial statements in real time for companies listed on the stock market that includes  NYSE, NASDAQ, AMEX, EURONEXT, TSX, INDEXES, ETFs, MUTUAL FUNDS, FOREX and CRYPTO.
 ## Built With
 
 - Major languages
@@ -12,10 +12,12 @@
 - Frameworks
 -bootstrap
 -webpack
+-React
+-reduck
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://effervescent-bunny-cc8f4f.netlify.app/)
+[Live Demo Link](https://frabjous-donut-ebc378.netlify.app)
 
    
 
@@ -48,11 +50,11 @@ Getting packages and debuging with Webhint
 
 ## Author
 
-👤 **Misheck Livingi**
+👤 **DAVID LYANGENDA**
 
-- GitHub: [@githubhandle](https://github.com/misheck12)
-- Twitter: [@twitterhandle](https://twitter.com/mishecklivingi2)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/misheck-livingi-a0b536142/)
+- GitHub: [@githubhandle](https://github.com/LYANGEND)
+- Twitter: [@twitterhandle](https://twitter.com/david_lyangenda)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-lyangenda-623087151/)
 
 ## 🤝 Contributing
 
@@ -67,6 +69,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 -Original design idea by Nelson Sakwa on Behance.
+https://www.behance.net/sakwadesignstudio
 
 
 ## 📝 License
