@@ -5,9 +5,9 @@
 >  This ia a website that provides users financial statements in real time for companies listed on the stock market that includes  NYSE, NASDAQ, AMEX, EURONEXT, TSX, INDEXES, ETFs, MUTUAL FUNDS, FOREX and CRYPTO.
 ## Built With
 
-- Major languages
+- Major languages.
 
-- HTML, CSS & JS
+- HTML, CSS & JS.
 - Hint, Stylelint, Eslint
 - Frameworks
 -bootstrap
